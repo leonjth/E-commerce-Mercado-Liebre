@@ -1,0 +1,70 @@
+
+html {
+    margin: 10px;
+}
+
+
+body {
+    background-color: #EAC926;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80vw;
+}
+
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+.precios {
+    font-size: 18px;
+    text-align: center;
+}
+
+.descuentos_descripciones {
+    font-size:16px;
+    text-align: center ;
+}
+
+.burger-menu {
+    background-color: #1259c3 ;
+    color: white;
+    width: 0.6vw ;
+    padding: 0.3vw;
+}
+
+.pago {
+    color: #1259c3;
+    font-size: 2em;
+    
+}
+
+.regalo {
+    color: #1259c3;
+    font-size: 2em;
+}
+
+.seguridad {
+    color: #1259c3;
+    font-size: 2em;
+}
+
+article {
+    background-color: #ebebeb;
+    width: 90vw;
+}
+
+footer {
+    text-align: center;
+    width: 90vw
+}
+
+
+
